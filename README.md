@@ -29,7 +29,7 @@ Find another player to play with you!
 
 Left player:
 * Produce a whistle to make the palett go up.
-* Make a lower sound withi your voice to make the palett go up.
+* Make a lower sound with your voice to make the palett go up.
 
 Right player:
 * Up arrow key to make the palett go up.
