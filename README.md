@@ -8,6 +8,12 @@ Sound Pong is a simple pong game in which you can play using your voice as input
 
 ## Setup and run
 
+Install the packages from `requirements.txt`.
+
+```
+pip install -r requirements.txt
+```
+
 Each person has a different vocal spectrum, therefore you need to make one special adjustment on the code.
 
 Run the `audio_test.py`, make some vocal sounds and whistle to understand the plot behaviour, then adjust the `LOWER_FREQ` and `HIGHER_FREQ` constants to achieve a better comand.
