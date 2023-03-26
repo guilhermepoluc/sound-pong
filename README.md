@@ -22,3 +22,15 @@ LOWER_FREQ = 100    # lower frequency limit of your voice sound
 HIGHER_FREQ = 2000  # higher frequency limit of you whistle sound
 ```
 When you are ready, copy your `LOWER_FREQ` and `HIGHER_FREQ` values to the `sound_pong.py` file and run it.
+
+## Playing
+
+Find another player to play with you!
+
+Left player:
+* Produce a whistle to make the palett go up.
+* Make a lower sound withi your voice to make the palett go up.
+
+Right player:
+* Up arrow key to make the palett go up.
+* Down arrow key to make the palett go up.
